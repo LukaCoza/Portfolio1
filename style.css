@@ -1,0 +1,11 @@
+/* CSS files add styling rules to your content */
+
+body {
+
+  background: url(https://media.giphy.com/media/X54zwFXL7YFpPlF7pK/giphy.gif);
+  min-height: 100%;
+  min-width: 100%;
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center center;
+}
